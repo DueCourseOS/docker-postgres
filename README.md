@@ -1,6 +1,6 @@
-# @duecourse/docker-postgres
+# docker-postgres
 
-A docker image to create a Postgres instance with a specific user and database.
+A docker image containing a Postgres instance initialised with a specific user and database.
 
 ## Setup
 
